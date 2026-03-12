@@ -109,6 +109,16 @@ Bot:
 
 ---
 
+## Workflow
+
+![Workflow](workflow.png)
+
+## Demo
+
+![WhatsApp Demo](demo.png)
+
+---
+
 ## Author
 
 Shruti Prasad
