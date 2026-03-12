@@ -111,11 +111,11 @@ Bot:
 
 ## Workflow
 
-![Workflow](workflow.png)
+![Workflow](screenshots/workflow.png)
 
 ## Demo
 
-![WhatsApp Demo](demo.png)
+![WhatsApp Demo](screenshots/demo.png)
 ---
 
 ## Author
