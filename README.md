@@ -116,7 +116,6 @@ Bot:
 ## Demo
 
 ![WhatsApp Demo](demo.png)
-
 ---
 
 ## Author
